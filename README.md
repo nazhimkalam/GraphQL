@@ -29,3 +29,9 @@
 
 ---
 
+##  Dependencies installed for this project 
+    
+    npm i express
+    npm i express-graphql
+    npm i graphql
+    npm i --save-dev nodemon

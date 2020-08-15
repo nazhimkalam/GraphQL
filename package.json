@@ -1,0 +1,24 @@
+{
+	"name": "GraphQL",
+	"version": "1.0.0",
+	"description": "- ## **GraphQL** is a query language for **APIs** and a runtime for fulfilling those queries with your existing data.",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nazhimkalam/GraphQL.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nazhimkalam/GraphQL/issues"
+	},
+	"homepage": "https://github.com/nazhimkalam/GraphQL#readme",
+	"dependencies": {
+		"express": "^4.17.1",
+		"express-graphql": "^0.11.0",
+		"graphql": "^15.3.0"
+	}
+}
